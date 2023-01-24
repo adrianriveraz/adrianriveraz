@@ -6,5 +6,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianriveraz&count_private=true&hide=html,scss,,ejs&theme=cobalt&line_height=10">
 
 </p>
-
-![](https://komarev.com/ghpvc/?username=adrianriveraz&color=dc143c&&style=flat)
